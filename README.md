@@ -1,7 +1,5 @@
-# Tripleten web_project_around
+Minimal photo blog theory website.
 
-Mock social network responsive website.
-
-Built on HTML5, CSS3 and vanilla JavaScript.
+Built on HTML5 and CSS3.
 
 Link: https://giusepevr.github.io/web_project_around/
